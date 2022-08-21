@@ -1,5 +1,5 @@
 ### Hi there 👋
-Looking for summer 2022 internships in the United States.  
+Looking for full-time New grad Software Engineer roles starting Feb 2023 in the United States.  
 <!--
 **luisito98/luisito98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
